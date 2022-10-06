@@ -6,28 +6,28 @@ entry_points:
     parameters:
 
       input_artifact:
-        description: ## ADD DESCRIPTION
+        description: Fully qualified name for the input artifact that will be dowloaded from W&B
         type: string
 
       output_artifact:
-        description: ## ADD DESCRIPTION
+        description: Fully qualified name for the output artiact that will be created on W&B
         type: string
 
       output_type:
-        description: ## ADD DESCRIPTION
+        description: Type of the artifact to create
         type: string
 
       output_description:
-        description: ## ADD DESCRIPTION
+        description: Output artifact after perfomimg basic cleaning on the input artifact 
         type: string
 
       min_price:
-        description: ## ADD DESCRIPTION
-        type: string
+        description: The minimum price to consider
+        type: float
 
       max_price:
-        description: ## ADD DESCRIPTION
-        type: string
+        description: The maximum price to consider
+        type: float
 
 
     command: >-
