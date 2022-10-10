@@ -1,7 +1,7 @@
 # GitHub and W&B links:
 [https://wandb.ai/simafarazi/nyc_airbnb?workspace=user-simafarazi](https://wandb.ai/simafarazi/nyc_airbnb?workspace=user-simafarazi)
 
-[https://github.com/SimaFarazi/build-ml-pipeline-for-short-term-rental-prices/](https://github.com/SimaFarazi/build-ml-pipeline-for-short-term-rental-prices)
+[https://github.com/SimaFarazi/build-ml-pipeline-for-short-term-rental-prices](https://github.com/SimaFarazi/build-ml-pipeline-for-short-term-rental-prices)
 
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
